@@ -28,7 +28,7 @@ params:
   preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/small_final.svg
+    image: /small_final.svg
     link: /
     # Default width/height. Uncomment if you need to change
     width: 300
@@ -46,7 +46,7 @@ params:
     # Where the main hero button links to
     buttonlink: "#"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: /logos/small_final.svg
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
     clientlogos:
